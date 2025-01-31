@@ -22,6 +22,7 @@ I’m a final-year Biomedical Engineering student with a strong passion for Arti
 
 
 3 . MediConnect: Healthcare Collaboration Platform
+
 	•	Description: Developed a web platform for primary care physicians and specialists to collaborate securely using RESTful APIs, RPC, and a MySQL database hosted 			on XAMPP.
  
 	•	Technologies: RESTful APIs, RPC, MySQL, XAMPP, HTML, CSS, JavaScript.
