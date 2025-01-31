@@ -9,12 +9,14 @@ I’m a final-year Biomedical Engineering student with a strong passion for Arti
 1. Pneumonia Detection using Chest X-rays
 
 	•	Description: Implemented a Deep Learning system using Vision Transformers (ViT) to detect pneumonia in X-ray images.
+
 	•	Technologies: Python, TensorFlow, Keras, Vision Transformers, CNNs.
 
 
-2. Disease Classification using Biomedical Data
+3. Disease Classification using Biomedical Data
 
 	•	Description: Developed Machine Learning models to classify diseases based on clinical and biomedical data.
+
 	•	Technologies: Python, Scikit-Learn, Pandas, NumPy.
 
 
