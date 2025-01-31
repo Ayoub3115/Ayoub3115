@@ -10,18 +10,17 @@ I’m a final-year Biomedical Engineering student with a strong passion for Arti
 
 	•	Description: Implemented a Deep Learning system using Vision Transformers (ViT) to detect pneumonia in X-ray images.
 	•	Technologies: Python, TensorFlow, Keras, Vision Transformers, CNNs.
-	•	Link: View Project
+
 
 2. Disease Classification using Biomedical Data
 
 	•	Description: Developed Machine Learning models to classify diseases based on clinical and biomedical data.
 	•	Technologies: Python, Scikit-Learn, Pandas, NumPy.
-	•	Link: View Project
+
 
 
 3 . MediConnect: Healthcare Collaboration Platform
 	•	Description: Developed a web platform for primary care physicians and specialists to collaborate securely using RESTful APIs, RPC, and a MySQL database hosted 			on XAMPP.
-
 	•	Technologies: RESTful APIs, RPC, MySQL, XAMPP, HTML, CSS, JavaScript.
 
 
