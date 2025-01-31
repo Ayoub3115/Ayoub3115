@@ -17,6 +17,14 @@ I’m a final-year Biomedical Engineering student with a strong passion for Arti
 	•	Description: Developed Machine Learning models to classify diseases based on clinical and biomedical data.
 	•	Technologies: Python, Scikit-Learn, Pandas, NumPy.
 	•	Link: View Project
+
+
+3 . MediConnect: Healthcare Collaboration Platform
+	•	Description: Developed a web platform for primary care physicians and specialists to collaborate securely using RESTful APIs, RPC, and a MySQL database hosted 			on XAMPP.
+
+	•	Technologies: RESTful APIs, RPC, MySQL, XAMPP, HTML, CSS, JavaScript.
+
+
 🔧 Technologies I Use
 
 	•	Programming Languages: Python, C, MATLAB, Bash
