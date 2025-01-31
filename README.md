@@ -40,4 +40,4 @@ I’m a final-year Biomedical Engineering student with a strong passion for Arti
 
 I’m always open to new opportunities, collaborations, and exciting projects! If you want to discuss AI, biomedicine, or any exciting project, feel free to reach out.
 	•	LinkedIn: www.linkedin.com/in/ayoub-begga
-	•	Email: ayoubbegga@gmail.com.com
+	•	Email: ayoubbegga@gmail.com
