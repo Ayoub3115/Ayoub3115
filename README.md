@@ -4,7 +4,7 @@ I’m a Biomedical Engineering  with a strong passion for Artificial Intelligenc
 
 🔬 My focus: I aim to integrate AI into solving medical problems, from image analysis to improving diagnostic processes. I believe technology can transform healthcare and improve people’s quality of life.
 
-🚀 Featured Projects
+🚀 Some of the Featured Projects
 
 1. Pneumonia Detection using Chest X-rays
 
