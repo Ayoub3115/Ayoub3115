@@ -1,6 +1,6 @@
 Hello, I’m Begga 👋
 
-I’m a final-year Biomedical Engineering student with a strong passion for Artificial Intelligence, Biomedicine, and Software Development. I love learning, exploring new technologies, and applying my knowledge in real-world projects that can make a difference.
+I’m a Biomedical Engineering  with a strong passion for Artificial Intelligence, Biomedicine, and Software Development. I love learning, exploring new technologies, and applying my knowledge in real-world projects that can make a difference.
 
 🔬 My focus: I aim to integrate AI into solving medical problems, from image analysis to improving diagnostic processes. I believe technology can transform healthcare and improve people’s quality of life.
 
@@ -43,7 +43,7 @@ I’m a final-year Biomedical Engineering student with a strong passion for Arti
 
 📈 My Academic and Professional Achievements
 
-	•	Currently in my final year of Biomedical Engineering.
+	•	Bachelor in  Biomedical Engineering.
 	•	Experience in research projects related to Deep Learning and Medical Image Processing.
 	•	Strong focus on the intersection of health and technology.
 
